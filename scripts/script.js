@@ -30,12 +30,12 @@ function criarLinha(lista, lista_aux) {
 
       <div class="estrelas">${
         rating / i < 5
-        ? `<img alt="estrela" src="./images/star_yellow.png"/> <img alt="estrela" 
-        src="./images/star_yellow.png"/> <img alt="estrela" src="./images/star_yellow.png"/> 
-        <img alt="estrela" src="./images/star_yellow.png"/> <img alt="estrela" src="./images/star_grey.png"/>`
-        : `<img alt="estrela" src="./images/star_yellow.png"/> <img alt="estrela" src="./images/star_yellow.png"/> 
-        <img alt="estrela" src="./images/star_yellow.png"/> <img alt="estrela" 
-        src="./images/star_yellow.png"/> <img alt="estrela" src="./images/star_yellow.png"/>`
+        ? `<img alt="estrela" src="images/star_yellow.png"/> <img alt="estrela" 
+        src="images/star_yellow.png"/> <img alt="estrela" src="images/star_yellow.png"/> 
+        <img alt="estrela" src="images/star_yellow.png"/> <img alt="estrela" src="images/star_grey.png"/>`
+        : `<img alt="estrela" src="images/star_yellow.png"/> <img alt="estrela" src="images/star_yellow.png"/> 
+        <img alt="estrela" src="images/star_yellow.png"/> <img alt="estrela" 
+        src="images/star_yellow.png"/> <img alt="estrela" src="images/star_yellow.png"/>`
         }
         </div>
 
